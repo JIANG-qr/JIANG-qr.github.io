@@ -1,0 +1,27 @@
+*{
+    margin:0;
+}
+strong {
+    font-size: 30px;font-family: 楷体;
+}
+#s1{
+    color: #c21d1d;
+}
+#s2{
+    color: #bb7321;
+}
+#s3{
+    color: #dabd1c;
+}
+#s4{
+    color: #74d127;
+}
+#s5{
+    color: #1cd6ae;
+}
+#s6{
+    color: #2a66d6;
+}
+.xhx{
+    text-decoration: underline;
+}
